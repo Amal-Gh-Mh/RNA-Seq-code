@@ -1,1 +1,1 @@
-# RNA-Seq-code
+# RNA-Seq
